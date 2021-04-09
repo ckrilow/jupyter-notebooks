@@ -1,2 +1,16 @@
 experiment_id	participant_id	differentiation_stage	glucose_condition	sample_storage	rna_type	n_cells_target	n_cells_captured	totatl_reads	mean_reads_per_cell	median_umi_per_cell	median_genes_per_cell	fraction_reads_in_cell	total_genes_detected	qc_status	qc_status_note
-E13-01	AS0041	7	primary	frozen	cellular	5000	3708	286743155	77330	13077	4318	0.841	24900	pass	NA 
+E13-01	AS0041	7	primary	frozen	cellular	5000	3708	286743155	77330	13077	4318	0.841	24900	pass	NA
+E13-02  AS0041	7 low     frozen  cellular	5000	4399	250817412	57016	11041	3957	0.836	25171	pass	NA
+E13-03  AS0041	7	high    frozen  cellular	5000  3885  260051433 66937 10393 3861  0.847 25373 pass	NA
+E13-04  AS0041	7	primary frozen  cellular	5000  3350  205991601 74922 12979 4364  0.847 24878 pass	NA
+E13-05  AS0041	7	low     frozen  cellular	5000  2626  261106749 99431 13631 4415  0.795 24672 pass	NA
+E13-06  AS0041	7	high    frozen  cellular	5000  5518  261090628 47316	9963  3746  0.837 25553 pass	NA
+E13-07  AS0041	7	primary frozen  cellular	5000  4530  270446465 59701 11222 3976  0.837 25027 pass	NA
+E13-08  AS0041	7	low     frozen  cellular	5000  3860  257074911 66599 11274 3963  0.807 25224 pass	NA
+E13-09  AS0041	7	high    frozen  cellular 	5000  3032  267033460 88071 13867 4328  0.843 24788 pass	NA
+E13-10  AS0041	7	primary frozen  cellular	5000  4661	287314932 61642 12327 4190	0.874 25150 pass	NA
+E13-11  AS0041	7	low     frozen  cellular	5000  4831	299832920 62064 11762 3939  0.864 25239 pass	NA
+E13-12  AS0041	7	high    frozen  cellular	5000  4556	259748768	57012 12476 4068  0.883 25137 pass	NA
+E13-13  AS0041	7	primary frozen  cellular	5000  5009	306644007	61218 12432 3938  0.853 25136 pass	NA
+E13-14  AS0041	7	low     frozen  cellular	5000  5151  291318377 56555 10753 3597  0.819 25179 pass	NA
+E13-15  AS0041	7	high    frozen  cellular	5000  4741  298307676 62920 10424 3630  0.809 25070 pass	NA
