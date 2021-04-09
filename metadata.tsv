@@ -1,1 +1,1 @@
-experiment_id	participant_id	differentiation_stage	glucose_condition	sample_storage	rna_type	n_cells_target	n_cells_captured
+experiment_id	participant_id	differentiation_stage	glucose_condition	sample_storage	rna_type	n_cells_target	n_cells_captured	totatl_reads	mean_reads_per_cell	median_umi_per_cell
