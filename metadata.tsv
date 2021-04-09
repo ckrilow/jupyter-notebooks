@@ -1,16 +1,32 @@
 experiment_id	participant_id	differentiation_stage	glucose_condition	sample_storage	rna_type	n_cells_target	n_cells_captured	total_reads	mean_reads_per_cell	median_umi_per_cell	median_genes_per_cell	fraction_of_reads_in_cells	total_genes_detected
-E13-01	AS0041		primary	frozen	cellular	5000	5642	219059436	38826	14043	4385	1	23475
-E13-02	AS0041		low	frozen	cellular	5000	5732	197764547	34501	14492	4435	1	23741
-E13-03	AS0041		high	frozen	cellular	5000	4169	184982302	44370	12688	4120	1	23263
-E13-04	AS0041		primary	frozen	cellular	5000	3908	192977558	49380	13679	4258	1	23281
-E13-05	AS0041		low	frozen	cellular	5000	7392	213069918	28824	5950	2711	1	23843
-E13-06	AS0041		high	frozen	cellular	5000	5537	198171141	35790	6908	3073	1	23543
-E13-07	AS0041		primary	frozen	cellular	5000	2994	177814505	59390	2028	794	1	23956
-E13-08	AS0041		low	frozen	cellular	5000	4449	134449128	30220	4850	2173	1	23910
-E13-09	AS0041		high	frozen	cellular	5000	6119	184788014	30199	6139	2518	1	24243
-E13-10	AS0041		primary	frozen	cellular	5000	5407	200813550	37139	6222	2551	1	24227
-E13-11	AS0041		low	frozen	cellular	5000	588	31574904	53698	151	129	0	13875
-E13-12	AS0041		high	frozen	cellular	5000	4383	181021018	41300	7469	2832	1	23917
-E13-13	AS0041		primary	frozen	cellular	5000	6122	178871036	29217	4968	2262	1	24124
-E13-14	AS0041		low	frozen	cellular	5000	4979	183781564	36911	2997	1613	1	23842
-E13-15	AS0041		high	frozen	cellular	5000	3102	184059272	59335	7223	2872	1	23913
+E13-01  AS0041          primary frozen  cellular        5000    3708    286743155       77330   13077   4318    0.841   24900   pass
+E13-02  AS0041          low     frozen  cellular        5000    4399    250817412       57016   11041   3957    0.836   25171   pass
+E13-03  AS0041          high    frozen  cellular        5000    3885    260051433       66937   10393   3861    0.847   25373   pass
+E13-04  AS0041          primary frozen  cellular        5000    3350    205991601       74922   12979   4364    0.847   24878   pass
+E13-05  AS0041          low     frozen  cellular        5000    2626    261106749       99431   13631   4415    0.795   24672   pass
+E13-06  AS0041          high    frozen  cellular        5000    5518    261090628       47316   9963    3746    0.837   25553   pass
+E13-07  AS0041          primary frozen  cellular        5000    4530    270446465       59701   11222   3976    0.83    25027   pass
+E13-08  AS0041          low     frozen  cellular        5000    3860    257074911       66599   11274   3963    0.807   25224   pass
+E13-09  AS0041          high    frozen  cellular        5000    3032    267033460       88071   13867   4328    0.843   24788   pass
+E13-10  AS0041          primary frozen  cellular        5000    4661    287314932       61642   12327   4190    0.874   25150   pass
+E13-11  AS0041          low     frozen  cellular        5000    4831    299832920       62064   11762   3939    0.864   25239   pass
+E13-12  AS0041          high    frozen  cellular        5000    4556    259748768       57012   12476   4068    0.883   25137   pass
+E13-13  AS0041          primary frozen  cellular        5000    5009    306644007       61218   12432   3938    0.853   25136   pass
+E13-14  AS0041          low     frozen  cellular        5000    5151    291318377       56555   10753   3597    0.819   25179   pass
+E13-15  AS0041          high    frozen  cellular        5000    4741    298307676       62920   10424   3630    0.809   25070   pass
+19_S0   AS0019  0               frozen  cellular        5000    5642    219059436       38826   14043   4385    1       23475   pass
+41_S0   AS0041  0               frozen  cellular        5000    5732    197764547       34501   14492   4435    1       23741   pass
+19_S1   AS0019  1               frozen  cellular        5000    4169    18498202        44370   12688   4120    1       23263   pass
+41_S1   AS0041  1               frozen  cellular        5000    3908    192977558       49380   13679   4258    1       23281   pass
+19_S4   AS0019  4               frozen  cellular        5000    7392    213069918       28824   5950    2711    1       23843   pass
+41_S4   AS0014  4               frozen  cellular        5000    5537    198171141       35790   6908    3073    1       23543   pass
+19_S6   AS0019  6               frozen  cellular        5000    2994    177814505       59390   2028    794     1       23956   pass
+41_S6   AS0041  6               frozen  cellular        5000    4449    134449128       30220   4850    2173    1       23910   pass
+19_L1   AS0019  7       low     frozen  cellular        5000    6119    184788014       30199   6139    2518    1       24243   pass
+19_L2   AS0019  7       low     frozen  cellular        5000    5407    200813550       37139   6222    2551    1       24227   pass
+19_H1   AS0019  7       high    frozen  cellular        5000    588     31574904        53698   151     129     0       13875   fail    Lori noted 10x platform experimental isses; failed CellBender due to almost no cells
+19_H2   AS0019  7       high    frozen  cellular        5000    4383    181021018       41300   7469    2832    1       23917
+41_L1   AS0041  7       low     frozen  cellular        5000    6122    178871036       29217   4968    2262    1       24124
+41_L2   AS0041  7       low     frozen  cellular        5000    4979    183781564       36911   2997    1613    1       23842
+41_H1   AS0041  7       high    frozen  cellular        5000    3102    184059272       59335   7223    2872    1       23913
+41_H2   AS0041  7       high    frozen  cellular        5000    6130    196171922       32001   5139    2230    1       24334
