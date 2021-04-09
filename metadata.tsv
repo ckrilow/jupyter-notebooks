@@ -1,6 +1,2 @@
-experiment_id	time_point	glucose_condition	glucose_concentration	participant_id	replicate_status	experiment_batch	qc_status	10x_experiment_date	10x_experiment_date
-T1	0	low	2.8	HP18227	HP18227-r1	E7	pass		2019/10
-T2	0	low	2.8	HP18227	HP18227-r2	E7	pass		2019/10
-T3	1	low	2.8	HP18227	HP18227-r1	E7	pass	Lori noted 10x platform experimental issues	2019/10
-T4	1	low	2.8	HP18227	HP18227-r2	E7	pass		2019/10
-T5	1	high	15	HP18227	HP18227-r1	E7	pass		2019/10
+experiment_id	participant_id	differentiation_stage	glucose_condition	sample_storage	rna_type	n_cells_target	n_cells_captured	total_reads	mean_reads_per_cell	median_umi_per_cell	median_genes_per_cell	fraction_of_reads_in_cells	total_genes_detected
+
