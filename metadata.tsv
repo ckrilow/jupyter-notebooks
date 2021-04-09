@@ -1,4 +1,4 @@
 experiment_id	participant_id	differentiation_stage	glucose_condition	sample_storage	rna_type	n_cells_target	n_cells_captured	totatl_reads	mean_reads_per_cell	median_umi_per_cell	median_genes_per_cell	fraction_reads_in_cell	total_genes_detected	qc_status	qc_status_note
 E13-01	AS0041	7	primary	frozen	cellular	5000	3708	286743155	77330	13077	4318	0.841	24900	pass	NA
 E13-02															
-E13-03                                
+                               
